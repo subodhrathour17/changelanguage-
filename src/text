@@ -1,0 +1,4 @@
+// npm i i18next react-i18next i18next-browser-languagedetector
+
+// import this where we want to use
+// import { useTranslation } from "react-i18next";
